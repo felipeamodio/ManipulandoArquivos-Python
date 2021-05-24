@@ -8,8 +8,8 @@ arquivo.close()
 
 #modo melhorado de fazer || o as é passando um apelido
 
-with open("segunto_arquivo.txt", "a") as arquivo:
-    arquivo.write("\nHakuna Matata!!")
+#with open("segunto_arquivo.txt", "a") as arquivo:
+#    arquivo.write("\nHakuna Matata!!")
 
 #manipulando arquivos em pastas do finder
 
@@ -40,3 +40,4 @@ linhasDoArquivo.sort()
 print(linhasDoArquivo)
 
 arquivo2.close()
+
